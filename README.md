@@ -13,3 +13,6 @@ WeatherVue-demo is a web application that allows users to check the current weat
 * HTML5: Markup language for structuring the app's content.
 * CSS3: Styling and layout for an appealing and user-friendly interface.
 * JavaScript: Handles data retrieval from the weather API, dynamically updates the UI, and handles user interactions.
+
+you can see the demo 
+https://kareemhossa.github.io/WeatherVue-demo/
